@@ -187,10 +187,7 @@ Built for **SBI Hackathon @ GFF 2026**
 
 | Member | Role |
 |--------|------|
-| [Your Name] | AI / Backend Engineering |
-| [Team Member 2] | Full Stack / Mobile |
-| [Team Member 3] | Data & NLP |
-
+| Harshal Verma| Prompt Engineer with knowledge of C , C++ , Python , Java , Javascript, HTML & CSS |
 ---
 
 ## 📄 License
